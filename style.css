@@ -1,0 +1,43 @@
+/* 網頁整體樣式 */
+body {
+  font-family: Arial, sans-serif;
+  background-color: #f5f5f5;
+}
+
+/* 標題樣式 */
+h1 {
+  font-size: 36px;
+  color: #8b008b;
+  margin-top: 50px;
+}
+
+/* 文字樣式 */
+p {
+  font-size: 18px;
+  line-height: 1.5;
+  color: #333;
+  margin-top: 20px;
+}
+
+/* 按鈕樣式 */
+button {
+  background-color: #8b008b;
+  color: #fff;
+  border: none;
+  padding: 10px 20px;
+  font-size: 16px;
+  border-radius: 5px;
+  cursor: pointer;
+  margin-top: 20px;
+}
+
+button:hover {
+  background-color: #9932cc;
+}
+
+/* 圖片樣式 */
+img {
+  width: 100%;
+  height: auto;
+  margin-top: 50px;
+}
